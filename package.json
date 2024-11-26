@@ -1,6 +1,6 @@
 {
   "name": "aio-swip",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "types":"index.d.ts",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "aio-utils":"latest",
     "aio-geo":"latest"
   },
-  "author": "",
+  "author": "mohammad sharif feiz feiz.ms@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mohammadFeiz/aio-swip/issues"
