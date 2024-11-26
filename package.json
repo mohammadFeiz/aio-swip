@@ -1,7 +1,8 @@
 {
   "name": "aio-swip",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
+  "types":"index.d.ts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +12,9 @@
     "url": "git+https://github.com/mohammadFeiz/aio-swip.git"
   },
   "dependencies": {
-    "jquery": "^3.6.1"
+    "jquery": "^3.6.1",
+    "aio-utils":"latest",
+    "aio-geo":"latest"
   },
   "author": "",
   "license": "ISC",
